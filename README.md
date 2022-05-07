@@ -5,8 +5,7 @@
 The CloudFront network has 169 points of presence (PoPs), and leverages the highly-resilient Amazon backbone network for superior performance and availability for your end users.
 In a way cloudfront is a CDN network.
 
-![Image](https://user-images.githubusercontent.com/98936958/167264036-6090c922-2d13-4792-92a5-28791d667188.svg)
-
+![image](https://user-images.githubusercontent.com/98936958/167264143-fc041016-0a96-448d-ace1-cb7706b4fe3b.PNG)
 
 
 Here we are going to host a simple html site in a s3 Bucket static hosting with cloudfront and ACM SSL.  
